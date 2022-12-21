@@ -13,11 +13,11 @@
     <meta name=googlebot-news content="noindex" >
     <meta name=googlebot content="noindex" >
     <meta name=robots content="noindex">
-    <meta name=description content="Undangan Online Pernikahan Andika dan Ria Tanggal 02 Januari 2023. Undangan pernikahan online by onhacker.co.id" >
+    <meta name=description content="Undangan Online Pernikahan Andika dan Ria Tanggal 11 Januari 2023. Undangan pernikahan online by onhacker.co.id" >
     <meta name=keywords content="onhacker,undangan,pernikahan,online,website,wedding,invitation">
     <meta property="og:url" content="<?php echo site_url(); ?>" >
     <meta property="og:title" content="Andika dan Ria" >
-    <meta property="og:description" content="Undangan Online Pernikahan Andika dan Ria Tanggal 02 Januari 2023. Undangan pernikahan online by onhacker.co.id" >
+    <meta property="og:description" content="Undangan Online Pernikahan Andika dan Ria Tanggal 11 Januari 2023. Undangan pernikahan online by onhacker.co.id" >
     <meta property="og:image" content="<?php echo base_url("assets/und/") ?>images/andika_ria2.jpg" >
     <link itemprop="thumbnailUrl" href="<?php echo base_url("assets/und/") ?>images/andika_ria2.jpg"> <span itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject"> <link itemprop="url" href="<?php echo base_url("assets/und/") ?>images/andika_ria2.jpg"> </span>
     <meta property="og:image:alt" content="Andika dan Ria" >
