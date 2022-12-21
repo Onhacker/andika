@@ -18,8 +18,8 @@
     <meta property="og:url" content="<?php echo site_url(); ?>" >
     <meta property="og:title" content="Andika dan Ria" >
     <meta property="og:description" content="Undangan Online Pernikahan Andika dan Ria Tanggal 02 Januari 2023. Undangan pernikahan online by onhacker.co.id" >
-    <meta property="og:image" content="<?php echo base_url("assets/und/") ?>images/hmm.jpeg" >
-    <link itemprop="thumbnailUrl" href="<?php echo base_url("assets/und/") ?>images/hmm.jpeg"> <span itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject"> <link itemprop="url" href="<?php echo base_url("assets/und/") ?>images/hmm.jpeg"> </span>
+    <meta property="og:image" content="<?php echo base_url("assets/und/") ?>images/andika_ria2.jpg" >
+    <link itemprop="thumbnailUrl" href="<?php echo base_url("assets/und/") ?>images/andika_ria2.jpg"> <span itemprop="thumbnail" itemscope itemtype="http://schema.org/ImageObject"> <link itemprop="url" href="<?php echo base_url("assets/und/") ?>images/andika_ria2.jpg"> </span>
     <meta property="og:image:alt" content="Andika dan Ria" >
     <title>Undangan Pernikahan Andika & Ria</title>
 
